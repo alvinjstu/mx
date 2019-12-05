@@ -1,8 +1,8 @@
 {
 	"android": [{
-		"version": "1.0.2+6",
+		"version": "1.0.2+5",
 		"updateInfo": "1、版本檢測更新功能\n2、互動",
-		"updateUrl": "http://cn-kdqbxs-reader.bjruiyue.com.cn/test/moxiang-1.0.1-4.apk",
+		"updateUrl": "http://cn-kdqbxs-reader.bjruiyue.com.cn/test/moxiang-1.0.2-5.apk",
 		"isForce": false
 	}],
 	"ios": [{
