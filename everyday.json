@@ -1,19 +1,19 @@
 {
 	"oneBook": [{
-    "gender":"male",
-		"imgUrl": "http://img.qingoo.cn/img/591d5f6d393b6c66c9864e8d",
-		"bookid": "591d5f6d393b6c66c9864e8d",
-		"bookSourceId": "591d5f6d393b6c66c9864e8d",
-		"bookName": "天师神书",
-		"enable" :true
-	},
-  {
-    "gender":"female",
-		"imgUrl": "http://img.qingoo.cn/img/5dcd1e9db26c3a1590fe4ece",
-		"bookid": "5b740123f71a5138ee2c263e",
-		"bookSourceId": "5b740123f71a5138ee2c263e",
-		"bookName": "绝色王爷的傻妃",
-		"enable" :true
-	}
-  ]
+			"gender": "male",
+			"imgUrl": "http://img.qingoo.cn/img/591d5f6d393b6c66c9864e8d",
+			"bookid": "591d5f6d393b6c66c9864e8d",
+			"bookSourceId": "591d5f6d393b6c66c9864e8d",
+			"bookName": "天师神书",
+			"enable": true
+		},
+		{
+			"gender": "female",
+			"imgUrl": "http://img.qingoo.cn/img/5dcd1e9db26c3a1590fe4ece",
+			"bookid": "5b740123f71a5138ee2c263e",
+			"bookSourceId": "5b740123f71a5138ee2c263e",
+			"bookName": "绝色王爷的傻妃",
+			"enable": true
+		}
+	]
 }
