@@ -1,7 +1,7 @@
 {
 	"android": [{
 		"version": "1.0.2+5",
-		"updateInfo": "1、版本檢測更新功能\n2、互動1、版本檢測更新功能",
+		"updateInfo": "1、版本檢測更新功能\n2、互動1、版本檢測更新功能\n2、互動1、版本檢測更新功能",
 		"updateUrl": "https://play.google.com/store/apps/details?id=com.qdqx.moxiang",
 		"unlineUrl": "https://cn-kdqbxs-reader.bjruiyue.com.cn/test/moxiang/moxiang-1.0.2-5.apk",
 		"enableUnline" :false,
