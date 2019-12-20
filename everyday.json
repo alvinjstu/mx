@@ -5,7 +5,7 @@
 		"bookid": "591d5f6d393b6c66c9864e8d",
 		"bookSourceId": "591d5f6d393b6c66c9864e8d",
 		"bookName": "天师神书",
-		"enable" :true,
+		"enable" :true
 	},
   {
     "gender":"female",
@@ -13,7 +13,7 @@
 		"bookid": "5b740123f71a5138ee2c263e",
 		"bookSourceId": "5b740123f71a5138ee2c263e",
 		"bookName": "绝色王爷的傻妃",
-		"enable" :true,
+		"enable" :true
 	}
   ]
 }
