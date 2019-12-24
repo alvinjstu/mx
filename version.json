@@ -1,7 +1,7 @@
 {
 	"android": [{
-		"version": "1.0.2+5",
-		"updateInfo": "1、版本檢測更新功能\n2、互動1、版本檢測更新功能\n2、互動1、版本檢測更新功能",
+		"version": "1.0.4+10",
+		"updateInfo": "1、偏好设置功能\n2、每日精品书推荐\n3、修复书架编辑Bug",
 		"updateUrl": "https://play.google.com/store/apps/details?id=com.qdqx.moxiang",
 		"unlineUrl": "https://cn-kdqbxs-reader.bjruiyue.com.cn/test/moxiang/moxiang-1.0.4-10.apk",
 		"enableUnline" :false,
