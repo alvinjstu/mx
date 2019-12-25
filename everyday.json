@@ -1,21 +1,21 @@
 {
 	"oneBook": [{
 			"gender": "male",
-			"imgUrl": "http://img.qingoo.cn/img/591d5f6d393b6c66c9864e8d",
+			"imgUrl": "https://cn-kdqbxs-reader.bjruiyue.com.cn/test/moxiang/githubimg/christmas.png",
 			"bookid": "590821d3cc31982d942877a5",
 			"bookSourceId": "590821d3cc31982d942877a5",
-			"bookName": "天师神书",
+			"bookName": "圣诞节快乐",
 			"enable": true,
-			"type":0,
+			"type":1,
 			"titleName":"圣诞节快乐",
 			"url":"https://cn-kdqbxs-reader.bjruiyue.com.cn/test/moxiang/activity2.html"
 		},
 		{
 			"gender": "female",
-			"imgUrl": "http://img.qingoo.cn/img/5dcd1e9db26c3a1590fe4ece",
+			"imgUrl": "https://cn-kdqbxs-reader.bjruiyue.com.cn/test/moxiang/githubimg/christmas.png",
 			"bookid": "583fd24ae64f731efdd836b0",
 			"bookSourceId": "583fd24ae64f731efdd836b0",
-			"bookName": "绝色王爷的傻妃",
+			"bookName": "圣诞节快乐",
 			"enable": true,
 			"type":0,
 			"titleName":"圣诞节快乐",
