@@ -1,7 +1,7 @@
 {
 	"oneBook": [{
 			"gender": "male",
-			"imgUrl": "https://cn-kdqbxs-reader.bjruiyue.com.cn/test/moxiang/githubimg/christmas.png",
+			"imgUrl": "https://cn-kdqbxs-reader.bjruiyue.com.cn/test/moxiang/githubimg/christmas1.png",
 			"bookid": "590821d3cc31982d942877a5",
 			"bookSourceId": "590821d3cc31982d942877a5",
 			"bookName": "圣诞节快乐",
@@ -12,7 +12,7 @@
 		},
 		{
 			"gender": "female",
-			"imgUrl": "https://cn-kdqbxs-reader.bjruiyue.com.cn/test/moxiang/githubimg/christmas.png",
+			"imgUrl": "https://cn-kdqbxs-reader.bjruiyue.com.cn/test/moxiang/githubimg/christmas1.png",
 			"bookid": "583fd24ae64f731efdd836b0",
 			"bookSourceId": "583fd24ae64f731efdd836b0",
 			"bookName": "圣诞节快乐",
