@@ -5,7 +5,7 @@
 		"updateUrl": "https://play.google.com/store/apps/details?id=com.qdqx.moxiang",
 		"unlineUrl": "https://cn-kdqbxs-reader.bjruiyue.com.cn/test/moxiang/moxiang-1.0.4-10.apk",
 		"enableUnline" :false,
-		"isForce": false
+		"isForce": true
 	}],
 	"ios": [{
 		"version": "1.0.4+10",
