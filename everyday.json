@@ -1,25 +1,25 @@
 {
 	"oneBook": [{
 			"gender": "male",
-			"imgUrl": "http://img.qingoo.cn/img/5d5dfaad8562c538c659c6da",
+			"imgUrl": "https://cn-kdqbxs-reader.bjruiyue.com.cn/test/moxiang/img/shu.png",
 			"bookid": "5b05398ff71a517326b5a23c",
 			"bookSourceId": "5b05398ff71a517326b5a23c",
-			"bookName": "超级小神医",
+			"bookName": "2020鼠年大吉",
 			"enable": true,
-			"type":0,
-			"titleName":"圣诞节快乐",
-			"url":"https://cn-kdqbxs-reader.bjruiyue.com.cn/test/moxiang/activity2.html"
+			"type":1,
+			"titleName":"2020元旦快樂",
+			"url":"https://cn-kdqbxs-reader.bjruiyue.com.cn/test/moxiang/activity3.html"
 		},
 		{
 			"gender": "female",
-			"imgUrl": "http://img.qingoo.cn/img/5df6fadab26c3a0dd0758f33",
+			"imgUrl": "https://cn-kdqbxs-reader.bjruiyue.com.cn/test/moxiang/img/shu.png",
 			"bookid": "5ae73dd9799bf1388fdcb934",
 			"bookSourceId": "5ae73dd9799bf1388fdcb934",
-			"bookName": "凰妃九千岁",
+			"bookName": "2020鼠年大吉",
 			"enable": true,
-			"type":0,
-			"titleName":"圣诞节快乐",
-			"url":"https://cn-kdqbxs-reader.bjruiyue.com.cn/test/moxiang/activity2.html"
+			"type":1,
+			"titleName":"2020元旦快樂",
+			"url":"https://cn-kdqbxs-reader.bjruiyue.com.cn/test/moxiang/activity3.html"
 		}
 	]
 }
