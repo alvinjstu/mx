@@ -1,22 +1,22 @@
 {
 	"oneBook": [{
 			"gender": "male",
-			"imgUrl": "http://img.qingoo.cn/img/591d5f6d393b6c66c9864e8d",
+			"imgUrl": "http://img.qingoo.cn/img/5d5dfaad8562c538c659c6da",
 			"bookid": "590821d3cc31982d942877a5",
 			"bookSourceId": "590821d3cc31982d942877a5",
-			"bookName": "天师神书",
-			"enable": false,
+			"bookName": "超级小神医",
+			"enable": true,
 			"type":0,
 			"titleName":"圣诞节快乐",
 			"url":"https://cn-kdqbxs-reader.bjruiyue.com.cn/test/moxiang/activity2.html"
 		},
 		{
 			"gender": "female",
-			"imgUrl": "http://img.qingoo.cn/img/5dcd1e9db26c3a1590fe4ece",
-			"bookid": "583fd24ae64f731efdd836b0",
-			"bookSourceId": "583fd24ae64f731efdd836b0",
-			"bookName": "绝色王爷的傻妃",
-			"enable": false,
+			"imgUrl": "http://img.qingoo.cn/img/5df6fadab26c3a0dd0758f33",
+			"bookid": "5ae73dd9799bf1388fdcb934",
+			"bookSourceId": "5ae73dd9799bf1388fdcb934",
+			"bookName": "凰妃九千岁",
+			"enable": true,
 			"type":0,
 			"titleName":"圣诞节快乐",
 			"url":"https://cn-kdqbxs-reader.bjruiyue.com.cn/test/moxiang/activity2.html"
