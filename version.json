@@ -1,9 +1,9 @@
 {
 	"android": [{
-		"version": "1.0.4+10",
-		"updateInfo": "1、偏好设置功能\n2、每日精品书推荐\n3、修复书架编辑Bug",
+		"version": "1.0.8+15",
+		"updateInfo": "1、修复偏好设置bug\n2、优化书籍推荐\n3、修改消息通知",
 		"updateUrl": "https://play.google.com/store/apps/details?id=com.qdqx.moxiang",
-		"unlineUrl": "https://cn-kdqbxs-reader.bjruiyue.com.cn/test/moxiang/moxiang-1.0.4-10.apk",
+		"unlineUrl": "https://cn-kdqbxs-reader.bjruiyue.com.cn/test/moxiang/moxiang-1.0.8-15.apk",
 		"enableUnline" :false,
 		"isForce": false
 	}],
