@@ -1,25 +1,25 @@
 {
 	"oneBook": [{
 			"gender": "male",
-			"imgUrl": "https://com-lianzainovel.bjruiyue.com.cn/test/moxiang/githubimg/nan1.png",
+			"imgUrl": "https://com-lianzainovel.bjruiyue.com.cn/test/moxiang/githubimg/chun_nan1.png",
 			"bookid": "590821d3cc31982d942877a5",
 			"bookSourceId": "590821d3cc31982d942877a5",
 			"bookName": "天师神书",
 			"enable": true,
-			"type":0,
-			"titleName":"圣诞节快乐",
-			"url":"https://cn-kdqbxs-reader.bjruiyue.com.cn/test/moxiang/activity2.html"
+			"type":1,
+			"titleName":"春节快乐",
+			"url":"https://cn-kdqbxs-reader.bjruiyue.com.cn/test/moxiang/activity4.html"
 		},
 		{
 			"gender": "female",
-			"imgUrl": "https://com-lianzainovel.bjruiyue.com.cn/test/moxiang/githubimg/nv1.png",
+			"imgUrl": "https://com-lianzainovel.bjruiyue.com.cn/test/moxiang/githubimg/chun_nv1.png",
 			"bookid": "583fd24ae64f731efdd836b0",
 			"bookSourceId": "583fd24ae64f731efdd836b0",
 			"bookName": "绝色王爷的傻妃",
 			"enable": true,
-			"type":0,
-			"titleName":"圣诞节快乐",
-			"url":"https://cn-kdqbxs-reader.bjruiyue.com.cn/test/moxiang/activity2.html"
+			"type":1,
+			"titleName":"春节快乐",
+			"url":"https://cn-kdqbxs-reader.bjruiyue.com.cn/test/moxiang/activity4.html"
 		}
 	]
 }
