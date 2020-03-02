@@ -112,5 +112,34 @@
             }
         ],
         "timestamp": 1583121444343
+    },
+    {
+        "ucode": "u0002",
+        "uname": "永不流失的经典",
+        "headImg": "https://cn-kdqbxs-reader.bjruiyue.com.cn/test/moxiang/duanpian/head/tou3.png",
+        "mguid": "1583134468211",
+        "tags": [
+            "225400",
+            "225411"
+        ],
+        "title": "《半碗村传奇》寒门传奇数学天才",
+        "mcontent": "穷山沟沟里，诞生传奇数学天才，\n伯乐老师倾其所有，供穷小子上学。\n“I'm stronger, I'm a brave boy!”\n穷小子，以此为人生格言，不屈不挠，励志奋发图强，逆天改命，\n最终不负所望，获得奥林匹克数学竞赛世界冠军。\n“穷不可怕，可怕的是你没有改变现状的足够勇气。”\n",
+        "remarks": [
+            ""
+        ],
+        "rich": [
+            {
+                "type": "0",
+                "size": "9/16",
+                "url": [
+                    "http://youqu-h5-2019.oss-cn-shenzhen.aliyuncs.com/bdxxl/1583132432992.jpg"
+                ],
+                "title": "",
+                "desc": "",
+                "link": "",
+                "ext": ""
+            }
+        ],
+        "timestamp": 1583134468211
     }
 ]
