@@ -170,5 +170,34 @@
             }
         ],
         "timestamp": 1583224018878
+    },
+    {
+        "ucode": "u0004",
+        "uname": "疫情简报",
+        "headImg": "https://cn-kdqbxs-reader.bjruiyue.com.cn/test/moxiang/duanpian/head/tou1.png",
+        "mguid": "1583225811622",
+        "tags": [
+            "225400",
+            "225411"
+        ],
+        "title": "20200303全国疫情动态",
+        "mcontent": "出门理由千万条，安全第一条，外出不忘戴口罩，你好他好大家好！",
+        "remarks": [
+            ""
+        ],
+        "rich": [
+            {
+                "type": "0",
+                "size": "9/16",
+                "url": [
+                    "http://youqu-h5-2019.oss-cn-shenzhen.aliyuncs.com/bdxxl/1583225807792.png"
+                ],
+                "title": "",
+                "desc": "",
+                "link": "",
+                "ext": ""
+            }
+        ],
+        "timestamp": 1583225811622
     }
 ]
