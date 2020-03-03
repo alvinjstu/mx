@@ -141,5 +141,34 @@
             }
         ],
         "timestamp": 1583221337256
+    },
+    {
+        "ucode": "u0004",
+        "uname": "疫情简报",
+        "headImg": "https://cn-kdqbxs-reader.bjruiyue.com.cn/test/moxiang/duanpian/head/tou1.png",
+        "mguid": "1583224018878",
+        "tags": [
+            "225400",
+            "225411"
+        ],
+        "title": "出院不等于彻底痊愈",
+        "mcontent": "2月以来，成都、武汉和广东各地也出现了出院患者复检呈阳性的病例。再次温馨提醒：新冠肺炎诊疗方案中规定，患者出院后应继续进行14天自我健康状况监测，佩戴口罩，有条件的居住在通风良好的单人间，减少与家人近距离密切接触，分餐饮食，做好手卫生，避免外出活动。",
+        "remarks": [
+            ""
+        ],
+        "rich": [
+            {
+                "type": "0",
+                "size": "9/16",
+                "url": [
+                    "http://youqu-h5-2019.oss-cn-shenzhen.aliyuncs.com/bdxxl/1583221846239.png"
+                ],
+                "title": "",
+                "desc": "",
+                "link": "",
+                "ext": ""
+            }
+        ],
+        "timestamp": 1583224018878
     }
 ]
