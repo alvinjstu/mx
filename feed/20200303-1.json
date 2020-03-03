@@ -112,5 +112,34 @@
             }
         ],
         "timestamp": 1583219243194
+    },
+    {
+        "ucode": "u0003",
+        "uname": "大格局",
+        "headImg": "https://cn-kdqbxs-reader.bjruiyue.com.cn/test/moxiang/duanpian/head/tou2.png",
+        "mguid": "1583221337256",
+        "tags": [
+            "225400",
+            "225411"
+        ],
+        "title": "青山一道同云雨，明月何曾是两乡",
+        "mcontent": "当我们湖北疫情告急，\n危难关头之际，\n韩国、日本人民给予我们支持，\n我们不会忘记。\n\n如今他们有难，\n我们当然不会袖手旁观，\n同样也会支持他们。\n\n——钟南山院士",
+        "remarks": [
+            ""
+        ],
+        "rich": [
+            {
+                "type": "4",
+                "size": "9/16",
+                "url": [
+                    "http://youqu-h5-2019.oss-cn-shenzhen.aliyuncs.com/bdxxl/1583219787430.png"
+                ],
+                "title": "",
+                "desc": "",
+                "link": "https://cn-kdqbxs-reader.bjruiyue.com.cn/test/moxiang/duanpian/content/video/bb499b25374d238b5e7832e975077c7f.mp3",
+                "ext": ""
+            }
+        ],
+        "timestamp": 1583221337256
     }
 ]
