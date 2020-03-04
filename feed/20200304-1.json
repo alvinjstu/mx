@@ -1,0 +1,31 @@
+[
+    {
+        "ucode": "u0004",
+        "uname": "疫情简报",
+        "headImg": "https://cn-kdqbxs-reader.bjruiyue.com.cn/test/moxiang/duanpian/head/tou1.png",
+        "mguid": "1583306329207",
+        "tags": [
+            "225400",
+            "225411"
+        ],
+        "title": "中国境外最新新冠肺炎报告",
+        "mcontent": "截至20200303日，中国境外共72个国家确诊新冠肺炎10566例，死亡共计166例。\n新冠肺炎疫情近日持续在多国蔓延，韩国、意大利、伊朗、日本等国确诊病例持续增加，分别为韩国5328例、意大利2546例、伊朗2336例、日本1000例。",
+        "remarks": [
+            ""
+        ],
+        "rich": [
+            {
+                "type": "0",
+                "size": "9/16",
+                "url": [
+                    "http://youqu-h5-2019.oss-cn-shenzhen.aliyuncs.com/bdxxl/1583306326541.png"
+                ],
+                "title": "",
+                "desc": "",
+                "link": "",
+                "ext": ""
+            }
+        ],
+        "timestamp": 1583306329207
+    }
+]
