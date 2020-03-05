@@ -131,17 +131,46 @@
         ],
         "rich": [
             {
-                "type": "0",
+                "type": "4",
                 "size": "9/16",
                 "url": [
                     "http://youqu-h5-2019.oss-cn-shenzhen.aliyuncs.com/bdxxl/1583396531609.png"
                 ],
-                "title": "",
+                "title": "什么叫被人欺负",
                 "desc": "",
-                "link": "",
+                "link": "https://cn-kdqbxs-reader.bjruiyue.com.cn/test/moxiang/duanpian/content/video/a757ef2e8373079f8627fa6c3f033704.mp3",
                 "ext": ""
             }
         ],
         "timestamp": 1583396942451
+    },
+    {
+        "ucode": "u0006",
+        "uname": "小地娱文",
+        "headImg": "https://cn-kdqbxs-reader.bjruiyue.com.cn/test/moxiang/duanpian/head/tou6.png",
+        "mguid": "1583400360982",
+        "tags": [
+            "225400",
+            "225411"
+        ],
+        "title": "雪中送炭，患难见真情，铭记于心",
+        "mcontent": "巴基斯坦，拿出全国医院库存口罩，提供给我们，\n缅甸给我们提供大米，\n斯里兰卡给我们提供红茶\n蒙古给我们提供30000只🐑，\n真实雪中送炭，患难见真情，中国铭记于心！！",
+        "remarks": [
+            ""
+        ],
+        "rich": [
+            {
+                "type": "4",
+                "size": "9/16",
+                "url": [
+                    "http://youqu-h5-2019.oss-cn-shenzhen.aliyuncs.com/bdxxl/1583397010504.png"
+                ],
+                "title": "互帮互助，友邦雪中送炭！",
+                "desc": "",
+                "link": "https://cn-kdqbxs-reader.bjruiyue.com.cn/test/moxiang/duanpian/content/video/453777fcf48cb87bae213895bc881cba_cps.mp3",
+                "ext": ""
+            }
+        ],
+        "timestamp": 1583400360982
     }
 ]
