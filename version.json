@@ -1,15 +1,15 @@
 {
 	"android": [{
-		"version": "1.0.8+15",
-		"updateInfo": "1、修复偏好设置bug\n2、优化书籍推荐\n3、修改消息通知",
+		"version": "1.1.0+16",
+		"updateInfo": "1、添加瀏覽紀錄模塊\n2、添加新推薦\n3、榜單改版",
 		"updateUrl": "https://play.google.com/store/apps/details?id=com.qdqx.moxiang",
 		"unlineUrl": "https://cn-kdqbxs-reader.bjruiyue.com.cn/test/moxiang/moxiang-1.0.8-15.apk",
 		"enableUnline" :false,
 		"isForce": false
 	}],
 	"ios": [{
-		"version": "1.0.5+11",
-		"updateInfo": "1、加入懸停按鈕，精選爽文\n2、加入推薦評論展示\n更新版本，讀書更暢心",
+		"version": "1.1.0+15",
+		"updateInfo": "1、添加瀏覽紀錄模塊\n2、添加新推薦\n榜單改版",
 		"updateUrl": "https://apps.apple.com/cn/app/%E5%A2%A8%E9%A6%99%E9%98%85%E8%AF%BB-%E7%9C%8B%E7%83%AD%E9%97%A8%E5%B0%8F%E8%AF%B4%E5%A4%A7%E5%85%A8%E7%9A%84%E7%94%B5%E5%AD%90%E4%B9%A6%E9%98%85%E8%AF%BB%E7%A5%9E%E5%99%A8/id1486311407",
 		"unlineUrl": "",
 		"enableUnline" :false,
