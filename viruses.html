@@ -610,56 +610,46 @@
         item.show = !item.show;
       },
       initData() {
-        $.ajax({
-          type: 'GET',
-          dataType: 'json',
-          headers: {
-            "apicode": "1cfbd6c0f57444fc80da64181b3946f7",
-          },
-          url: "https://api.yonyoucloud.com/apis/dst/ncov",
-          success: (res) => {
-            this.json1 = res.data;
-          },
-          error: function (data) {
-            console.log("error" + data);
-          }
-        });
-        $.ajax({
-          type: 'GET',
-          dataType: 'json',
-          headers: {
-            "apicode": "1cfbd6c0f57444fc80da64181b3946f7",
-          },
-          url: "https://api.yonyoucloud.com/apis/dst/ncov/wholeworld",
-          success: (res) => {
-            res.data.continent.forEach((item, i) => {
-              if (i == 0) {
-                item.show = true;
-              } else {
-                item.show = false;
-              }
-            });
-            this.json2 = res.data;
-          },
-          error: function (data) {
-            console.log("error" + data);
-          }
-        });
-                $.ajax({
-          type: 'GET',
-          dataType: 'json',
-          headers: {
-            "apicode": "1cfbd6c0f57444fc80da64181b3946f7",
-          },
-          url: "https://api.yonyoucloud.com/apis/dst/ncov/query",
-          success: (res) => {
-            this.json3 = response;
-          },
-          error: function (data) {
-            console.log("error" + data);
-          }
-        });
-
+         $.ajax({
+              type: 'GET',
+              dataType: 'json',
+              url: "https://182.92.85.74:8080/app/apis/ncov",
+              success: (res)=> {
+                this.json1=res.data;
+              },
+              error:function(data){
+                  console.log("error"+data);
+              }
+          }); 
+          $.ajax({
+              type: 'GET',
+              dataType: 'json',
+              url: "https://182.92.85.74:8080/app/apis/ncov/wholeworld",
+              success: (res)=> {
+                res.data.continent.forEach((item,i)=>{
+                  if (i==0) {
+                    item.show=true;
+                  }else{
+                    item.show=false;
+                  }
+                });
+                this.json2=res.data;
+              },
+              error:function(data){
+                  console.log("error"+data);
+              }
+          });
+          $.ajax({
+              type: 'GET',
+              dataType: 'json',
+              url: "http://182.92.85.74:8080/app/apis/ncov/query",
+              success: (res)=> {
+                this.json3=res;
+              },
+              error:function(data){
+                  console.log("error"+data);
+              }
+          }); 
       }
     }
   });
