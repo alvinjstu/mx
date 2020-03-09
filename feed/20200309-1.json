@@ -56,5 +56,34 @@
             }
         ],
         "timestamp": 1583735774224
+    },
+    {
+        "ucode": "u0004",
+        "uname": "疫情简报",
+        "headImg": "https://cn-kdqbxs-reader.bjruiyue.com.cn/test/moxiang/duanpian/head/tou1.png",
+        "mguid": "1583740318952",
+        "tags": [
+            "225400",
+            "225411"
+        ],
+        "title": "意大利死亡病例数暴增57％，死亡率升至全球最高",
+        "mcontent": "3月8日意大利卫生部公布的最新数据，意大利民主党主席感染新冠病毒，现有新冠肺炎确诊病例6387例，已治愈622例，累计确诊病例为7275例，已超过韩国，成为中国之外疫情最严重的国家。死率目前已突破4.96%，为全球最高。",
+        "remarks": [
+            ""
+        ],
+        "rich": [
+            {
+                "type": "0",
+                "size": "9/16",
+                "url": [
+                    "http://youqu-h5-2019.oss-cn-shenzhen.aliyuncs.com/bdxxl/1583735823221.jpg"
+                ],
+                "title": "",
+                "desc": "",
+                "link": "",
+                "ext": ""
+            }
+        ],
+        "timestamp": 1583740318952
     }
 ]
