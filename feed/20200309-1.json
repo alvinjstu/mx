@@ -27,5 +27,34 @@
             }
         ],
         "timestamp": 1583734796665
+    },
+    {
+        "ucode": "u0001",
+        "uname": "Proactive Outlook",
+        "headImg": "https://cn-kdqbxs-reader.bjruiyue.com.cn/test/moxiang/duanpian/head/tou4.png",
+        "mguid": "1583735774224",
+        "tags": [
+            "225400",
+            "225411"
+        ],
+        "title": "不断的去学习，讲好中国故事",
+        "mcontent": "人的一生，\n要走多少路，\n才能确定前行的方向，\n在路上要遇到多少人，\n才能知道与谁同行。\n\n我们的路已经在脚下，\n我们的伙伴就在身旁。\n\n那就让我们，\n努力做好自己，\n不断的去学习，\n讲好中国故事。",
+        "remarks": [
+            ""
+        ],
+        "rich": [
+            {
+                "type": "4",
+                "size": "9/16",
+                "url": [
+                    "http://youqu-h5-2019.oss-cn-shenzhen.aliyuncs.com/bdxxl/1583735669320.jpg"
+                ],
+                "title": "努力做好自己",
+                "desc": "",
+                "link": "https://cn-kdqbxs-reader.bjruiyue.com.cn/test/moxiang/duanpian/content/video/cee12e1668c12a710b717e6754cd90b4.mp3",
+                "ext": ""
+            }
+        ],
+        "timestamp": 1583735774224
     }
 ]
