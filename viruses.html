@@ -1,0 +1,668 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+  <title>實時更新：新型冠狀病毒肺炎疫情</title>
+  <style type="text/css">
+    a,
+    abbr,
+    address,
+    article,
+    aside,
+    audio,
+    b,
+    blockquote,
+    body,
+    canvas,
+    caption,
+    cite,
+    code,
+    dd,
+    dd,
+    del,
+    details,
+    dfn,
+    div,
+    dl,
+    dl,
+    dt,
+    dt,
+    em,
+    fieldset,
+    figcaption,
+    figure,
+    footer,
+    form,
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    header,
+    hgroup,
+    html,
+    i,
+    iframe,
+    img,
+    input,
+    ins,
+    kbd,
+    label,
+    legend,
+    li,
+    mark,
+    menu,
+    nav,
+    object,
+    ol,
+    p,
+    pre,
+    q,
+    s,
+    samp,
+    section,
+    select,
+    small,
+    span,
+    strong,
+    sub,
+    summary,
+    sup,
+    table,
+    tbody,
+    td,
+    tfoot,
+    th,
+    thead,
+    time,
+    tr,
+    ul,
+    var,
+    video {
+      margin: 0;
+      padding: 0;
+      border: 0;
+      outline: 0;
+      font-size: 100%;
+      vertical-align: baseline;
+      background: transparent
+    }
+
+    body,
+    html {
+      font-family: PingFangSC-Regular
+    }
+
+    li {
+      list-style: none
+    }
+
+    a {
+      text-decoration: none;
+      color: #000
+    }
+
+    a:hover {
+      text-decoration: none;
+      color: #000;
+      -webkit-tap-highlight-color: transparent
+    }
+
+    .clearfix:after {
+      content: "";
+      height: 0;
+      line-height: 0;
+      display: block;
+      clear: both;
+      visibility: hidden
+    }
+
+    * {
+      -webkit-touch-callout: none;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+      user-select: none;
+      -webkit-tap-highlight-color: transparent
+    }
+
+    input {
+      -webkit-user-select: auto
+    }
+
+    i {
+      font-style: normal
+    }
+  </style>
+  <style type="text/css">
+    .end {
+      padding: 0.8rem 0.2rem;
+      color: #00bec9;
+      line-height: 0.5rem;
+      text-align: center;
+    }
+
+    .main {}
+
+    .header {
+      position: relative;
+      height: 4.987rem;
+      margin-bottom: -0.267rem;
+      background: url('https://com-lianzainovel.bjruiyue.com.cn/test/yiqing/bg-header.840c435.jpg') no-repeat center;
+      background-size: 100% 100%;
+    }
+
+    .header .centertext {
+      background: url('https://com-lianzainovel.bjruiyue.com.cn/test/yiqing/head_title.png') no-repeat center;
+      background-size: 100% 100%;
+      width: 5.067rem;
+      height: 1.653rem;
+      position: absolute;
+      top: 1.067rem;
+      left: 0.267rem;
+    }
+
+    .header .desp {
+      font-size: 0.373rem;
+      background-color: rgba(9, 148, 167, .5);
+      padding: 0.107rem 0.213rem;
+      color: #FFF;
+      display: inline-block;
+      border-radius: 0.4rem;
+      position: absolute;
+      top: 3.2rem;
+      left: 0.267rem;
+    }
+
+    .page {
+      padding: 0.4rem 0.4rem 0 0.4rem;
+    }
+
+    .page1 {
+      position: relative;
+      background: white;
+      border-radius: 10px;
+    }
+
+    .page1 .virus-t {
+      color: #999;
+      font-size: 0.32rem;
+    }
+
+    .page1 .page1-t {
+      color: #000;
+      font-size: 0.427rem;
+      margin-bottom: 0.107rem;
+    }
+
+    .page1 .page1-cont {
+      color: #333;
+      margin-top: 0.267rem;
+    }
+
+    .page1 .p1-row {
+      display: flex;
+      padding: 0.267rem;
+      justify-content: space-around;
+      font-size: 0.373rem;
+      color: #333;
+    }
+
+    .page1 .color1 {
+      color: #ff6a57;
+    }
+
+    .page1 .color2 {
+      color: #ec9217;
+    }
+
+    .page1 .color3 {
+      color: #476da0;
+    }
+
+    .page1 .color4 {
+      color: #e83132;
+    }
+
+    .page1 .color5 {
+      color: #10aeb5;
+    }
+
+    .page1 .color6 {
+      color: #4d5054;
+    }
+
+    .page1 .num {
+      font-weight: 700;
+      font-size: 0.533rem;
+      margin-top: 6px;
+    }
+
+    .page1 .nums {
+      font-size: 0.32rem;
+    }
+
+    .page1 .p1-sp1 {
+      color: #999;
+    }
+
+    .page2 {
+      margin-top: 0.267rem;
+      font-size: 0.373rem;
+    }
+
+    .page2 .page2-t {
+      color: #000;
+      font-size: 0.427rem;
+      margin-bottom: 0.107rem;
+    }
+
+    .page2 .page2-s {
+      color: #999;
+      font-size: 0.32rem;
+    }
+
+    .page2 .cons {
+      display: flex;
+      justify-content: space-around;
+      padding-top: 0.267rem;
+    }
+
+    .page2 .conm1 {
+      color: #ff6a57;
+    }
+
+    .page2 .conm2 {
+      color: #e83132;
+    }
+
+    .page2 .conm3 {
+      color: #10aeb5;
+    }
+
+    .page2 .page2-c1 {
+      display: flex;
+      justify-content: space-around;
+      background: #f5f6f7;
+      margin-top: 0.267rem;
+      padding: 0.533rem 0px;
+      border-radius: 0.267rem;
+    }
+
+    .page2 .page2-c2 {
+      margin-top: 0.267rem;
+    }
+
+    .page2 .ite {
+      color: #333;
+      font-size: 0.373rem;
+    }
+
+    .page2 .ite1-d2 {
+      color: #ff6a57;
+      font-weight: bold;
+      padding-top: 0.16rem;
+      font-size: 0.533rem;
+    }
+
+    .page2 .ite2-d2 {
+      color: #e83132;
+      font-weight: bold;
+      padding-top: 0.16rem;
+      font-size: 0.533rem;
+    }
+
+    .page2 .ite3-d2 {
+      color: #10aeb5;
+      font-weight: bold;
+      padding-top: 0.16rem;
+      font-size: 0.533rem;
+    }
+
+    .page2 .item {
+      padding: 0.267rem 0.0rem;
+    }
+
+    .page2 .country {
+      padding: 0.267rem 0.0rem;
+      border-bottom: 1px solid #f5f5f5;
+    }
+
+    .page2 .detail {
+      display: flex;
+      justify-content: space-between;
+    }
+
+    .page2 .connnn {
+      background-color: #00bec9;
+      color: #fff;
+      font-weight: 700;
+      border-top-left-radius: 5px;
+      border-bottom-left-radius: 5px;
+      padding: 0.107rem;
+      font-size: 0.427rem;
+    }
+
+    .page2 .per25 {
+      width: 22%;
+      text-align: center;
+    }
+
+    .page2 .confirm {
+      height: 0.8rem;
+      line-height: 0.8rem;
+      color: #333;
+      font-weight: bold;
+      background-color: #f5f6f7;
+    }
+
+    .page2 .counname {
+      font-weight: 700;
+      color: rgba(0, 190, 199, .6);
+    }
+
+    .page2 .inner {
+      color: #555;
+    }
+
+    .page2 .shape {
+      width: 0.32rem;
+      vertical-align: middle;
+    }
+
+    .zhuan {
+      transform: rotate(180deg);
+    }
+
+    .page2 .zhouming {}
+
+    .page3 {
+      padding-top: 0.8rem;
+    }
+
+    .page3 .page3-t {
+      color: #000;
+      font-size: 0.427rem;
+    }
+
+    .page3 .page3-s {
+      color: #999;
+      font-size: 0.32rem;
+    }
+
+    .page3 .desc {
+      padding: 0.267rem;
+    }
+
+    .page3 .inner {
+      padding: 0.3rem 0 0.3rem 0;
+      border-bottom: 0.5px dashed #d0d0d0;
+    }
+
+    .ite1 {
+      display: -webkit-box;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: normal;
+      -webkit-line-clamp: 2;
+      font-size: 0.4rem;
+      margin-bottom: 0.16rem;
+      font-weight: bold;
+    }
+
+    .ite2 {
+      display: -webkit-box;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: normal;
+      -webkit-line-clamp: 3;
+      font-size: 0.32rem;
+      letter-spacing: 0.05rem;
+      margin-bottom: 0.16rem;
+      color: #555;
+    }
+
+    .page3 .ite3 {
+      color: #999;
+      font-size: 0.32rem;
+    }
+
+    .page3 .sp {
+      margin: 0px 0.107rem;
+    }
+
+    .c3-row {
+      color: #555;
+      display: flex;
+      justify-content: space-around;
+      margin-top: 20px;
+      font-weight: bold;
+    }
+  </style>
+  <script language="Javascript">
+    (function (doc, win) {
+      var docEl = doc.documentElement,
+        resizeEvt = 'orientationchange' in window ? 'orientationchange' : 'resize',
+        recalc = function () {
+          var clientWidth = docEl.clientWidth;
+          if (!clientWidth) return;
+          docEl.style.fontSize = 75 * (clientWidth / 750) + 'px';
+        };
+      if (!doc.addEventListener) return;
+      win.addEventListener(resizeEvt, recalc, false);
+      doc.addEventListener('DOMContentLoaded', recalc, false);
+    })(document, window);
+    document.oncontextmenu = new Function("event.returnValue=false");
+    document.onselectstart = new Function("event.returnValue=false");  
+  </script>
+  <script src="https://cdn.bootcss.com/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vue@2.5.16/dist/vue.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vue@2.5.16/dist/vue.min.js"></script>
+</head>
+
+<body style="font-size: 12px;">
+  <div class="main" id="app">
+    <div class="header">
+      <div class="centertext"></div>
+      <div class="desp">數據來源：國家及各地衛健委每日信息發布</div>
+    </div>
+    <div class="page page1">
+      <div class="page1-t">國內疫情</div>
+      <div class="virus-t">國內疫情更新至{{json1.updateTime}}</div>
+      <div class="page1-cont">
+        <div class="p1-row">
+          <div class="item">
+            <span>現有確診</span>
+            <div class="num color1">{{json1.currentConfirmedCount}}</div>
+            <div class="nums color1"><span class="p1-sp1">昨日</span>{{json1.currentConfirmedAdd}}</div>
+          </div>
+          <div class="item">
+            <span>現有疑似</span>
+            <div class="num color2">{{json1.suspectedCount}}</div>
+            <div class="nums color2"><span class="p1-sp1">昨日</span>+{{json1.suspectedAdd}}</div>
+          </div>
+          <div class="item">
+            <span>現有重癥</span>
+            <div class="num color3">{{json1.severecasesCount}}</div>
+            <div class="nums color3"><span class="p1-sp1">昨日</span>{{json1.severecasesAdd}}</div>
+          </div>
+        </div>
+        <div class="p1-row">
+          <div class="item">
+            <span>累計確診</span>
+            <div class="num color4">{{json1.confirmedCount}}</div>
+            <div class="nums color4"><span class="p1-sp1">昨日</span>+{{json1.confirmedAdd}}</div>
+          </div>
+          <div class="item">
+            <span>累計治愈</span>
+            <div class="num color5">{{json1.curedCount}}</div>
+            <div class="nums color5"><span class="p1-sp1">昨日</span>+{{json1.curedAdd}}</div>
+          </div>
+          <div class="item">
+            <span>累計死亡</span>
+            <div class="num color6">{{json1.deadCount}}</div>
+            <div class="nums color6"><span class="p1-sp1">昨日</span>+{{json1.deathAdd}}</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="page page2">
+      <div class="page2-t">全球疫情</div>
+      <div class="page2-s">數據更新至{{json2.updateTime}}</div>
+      <div class="page2-c1">
+        <div class="ite">
+          <div class="ite1-d1">累計確診</div>
+          <div class="ite1-d2">{{json2.confirmedCount}}</div>
+        </div>
+        <div class="ite">
+          <div class="ite2-d1">累計治愈</div>
+          <div class="ite2-d2">{{json2.curedCount}}</div>
+        </div>
+        <div class="ite">
+          <div class="ite3-d1">累計死亡</div>
+          <div class="ite3-d2">{{json2.deadCount}}</div>
+        </div>
+      </div>
+      <div class="page2-c3">
+        <div class="c3-main">
+          <div class="c3-row">
+            <div class="per25">國家</div>
+            <div class="per25">累計確診</div>
+            <div class="per25">累計治愈</div>
+            <div class="per25">累計死亡</div>
+          </div>
+          <div class="asia" @click="clickAsia(item)" v-for="(item,index) in json2.continent">
+            <div class="cons">
+              <div class="connnn per25" :datasec="item.show">
+                <img class="shape" :class="{'zhuan':!item.show}"
+                  src="https://com-lianzainovel.bjruiyue.com.cn/test/yiqing/arrow-white.4e66b9c.png" />
+                <span class="zhouming">{{item.continentName}}</span>
+              </div>
+              <div class="confirm per25"><span class="conm1">{{item.confirmedCount}}</span></div>
+              <div class="confirm per25"><span class="conm2">{{item.curedCount}}</span></div>
+              <div class="confirm per25"><span class="conm3">{{item.deadCount}}</span></div>
+            </div>
+            <div class="item" v-show="item.show">
+              <div class="country" v-for="(asix,dix) in item.country">
+                <div class="inner">
+                  <div class="detail">
+                    <div class="counname per25">{{asix.countryName}}</div>
+                    <div class="per25">{{asix.confirmedCount}}</div>
+                    <div class="per25">{{asix.curedCount}}</div>
+                    <div class="per25">{{asix.deadCount}}</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="page page3">
+      <div class="page3-t">疫情播報</div>
+      <div class="page3-s">數據更新至{{json2.updateTime}}</div>
+      <div class="page3-cont">
+        <div class="news" v-for="(item,index) in json3.newslist">
+          <div class="item">
+            <div class="inner" v-for="(ite,iex) in item.news">
+              <a class="ite" :href="ite.sourceUrl">
+                <div class="ite1">{{ite.title}}</div>
+                <div class="ite2">{{ite.summary}}</div>
+                <div class="ite3">
+                  <span class="sp">{{ite.infoSource}}</span>
+                  <span class="sp">{{ite.pubDateStr}}</span>
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="end">
+      <p>“墨香閱讀”加入“新型冠狀病毒感染肺炎，疫情防控公益計劃”</p>
+      <p>接口數據來自用友APIlink</p>
+    </div>
+  </div>
+</body>
+<script type="text/javascript">
+  let v = new Vue({
+    el: "#app",
+    data() {
+      return {
+        test: "AAAAAtest",
+        json1: {},
+        json2: {},
+        json3: {},
+      }
+    },
+    created() {
+      console.log("this.test:" + this.test)
+      this.initData();
+    },
+    methods: {
+      clickAsia(item) {
+        item.show = !item.show;
+      },
+      initData() {
+        $.ajax({
+          type: 'GET',
+          dataType: 'json',
+          headers: {
+            "apicode": "1cfbd6c0f57444fc80da64181b3946f7",
+          },
+          url: "https://api.yonyoucloud.com/apis/dst/ncov",
+          success: (res) => {
+            this.json1 = res.data;
+          },
+          error: function (data) {
+            console.log("error" + data);
+          }
+        });
+        $.ajax({
+          type: 'GET',
+          dataType: 'json',
+          headers: {
+            "apicode": "1cfbd6c0f57444fc80da64181b3946f7",
+          },
+          url: "https://api.yonyoucloud.com/apis/dst/ncov/wholeworld",
+          success: (res) => {
+            res.data.continent.forEach((item, i) => {
+              if (i == 0) {
+                item.show = true;
+              } else {
+                item.show = false;
+              }
+            });
+            this.json2 = res.data;
+          },
+          error: function (data) {
+            console.log("error" + data);
+          }
+        });
+                $.ajax({
+          type: 'GET',
+          dataType: 'json',
+          headers: {
+            "apicode": "1cfbd6c0f57444fc80da64181b3946f7",
+          },
+          url: "https://api.yonyoucloud.com/apis/dst/ncov/query",
+          success: (res) => {
+            this.json3 = response;
+          },
+          error: function (data) {
+            console.log("error" + data);
+          }
+        });
+
+      }
+    }
+  });
+</script>
+
+</html>
