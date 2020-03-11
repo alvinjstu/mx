@@ -85,5 +85,34 @@
             }
         ],
         "timestamp": 1583920573667
+    },
+    {
+        "ucode": "u0001",
+        "uname": "Proactive Outlook",
+        "headImg": "https://cn-kdqbxs-reader.bjruiyue.com.cn/test/moxiang/duanpian/head/tou4.png",
+        "mguid": "1583921087151",
+        "tags": [
+            "225400",
+            "225411"
+        ],
+        "title": "支付宝开始质变",
+        "mcontent": "2020年3月10日，蚂蚁金服CEO胡晓明宣布，打造支付宝数字生活开放平台，聚焦服务业数字化，并立下目标“未来三年，携手5万服务商帮4000万服务业商家完成数字化升级”。",
+        "remarks": [
+            ""
+        ],
+        "rich": [
+            {
+                "type": "0",
+                "size": "9/16",
+                "url": [
+                    "http://youqu-h5-2019.oss-cn-shenzhen.aliyuncs.com/bdxxl/1583920873765.jpg"
+                ],
+                "title": "",
+                "desc": "",
+                "link": "",
+                "ext": ""
+            }
+        ],
+        "timestamp": 1583921087151
     }
 ]
