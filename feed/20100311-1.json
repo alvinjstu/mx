@@ -141,5 +141,34 @@
             }
         ],
         "timestamp": 1583921455397
+    },
+    {
+        "ucode": "u0004",
+        "uname": "疫情简报",
+        "headImg": "https://cn-kdqbxs-reader.bjruiyue.com.cn/test/moxiang/duanpian/head/tou1.png",
+        "mguid": "1583921996651",
+        "tags": [
+            "225400",
+            "225411"
+        ],
+        "title": "10意大利封城，中国抗疫专家组今日启程，赴意协助抗疫",
+        "mcontent": "疫情告急，意大利欲意封城，众人闻风逃离。\n3月10日晚，意大利与我国约通电话，希望中方提供帮助。\n11日，根据国外交同意，安排四川大学华西医院呼吸与危重症医学科主任梁宗安、重症医学科小儿ICU护士长唐梦琳加入中国红十字会志愿专家团队飞赴意大利，并携带相关人道救援物资，支援意大利共同抗击新冠肺炎疫情。",
+        "remarks": [
+            ""
+        ],
+        "rich": [
+            {
+                "type": "0",
+                "size": "9/16",
+                "url": [
+                    "http://youqu-h5-2019.oss-cn-shenzhen.aliyuncs.com/bdxxl/1583921362945.jpg"
+                ],
+                "title": "",
+                "desc": "",
+                "link": "",
+                "ext": ""
+            }
+        ],
+        "timestamp": 1583921996651
     }
 ]
