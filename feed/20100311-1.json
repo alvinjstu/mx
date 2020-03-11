@@ -199,5 +199,34 @@
             }
         ],
         "timestamp": 1583922582326
+    },
+    {
+        "ucode": "u0001",
+        "uname": "Proactive Outlook",
+        "headImg": "https://cn-kdqbxs-reader.bjruiyue.com.cn/test/moxiang/duanpian/head/tou4.png",
+        "mguid": "1583923288619",
+        "tags": [
+            "225400",
+            "225411"
+        ],
+        "title": "",
+        "mcontent": "据台湾网3月11日报道，新冠肺炎疫情重创台湾经济，尤其是航空、观光等产业。据台湾《联合报》报道，岛内“航空双雄”华航、长荣单月营收均跌破百亿（新台币）大关，分别年减近25%与35%；观光酒店营收也呈现衰退，岛内五星级酒店晶华、六福、寒舍则分别年减近三到五成不等，是这波疫情下的“重灾区”。",
+        "remarks": [
+            ""
+        ],
+        "rich": [
+            {
+                "type": "0",
+                "size": "9/16",
+                "url": [
+                    "http://youqu-h5-2019.oss-cn-shenzhen.aliyuncs.com/bdxxl/1583922736459.jpg"
+                ],
+                "title": "",
+                "desc": "",
+                "link": "",
+                "ext": ""
+            }
+        ],
+        "timestamp": 1583923288619
     }
 ]
