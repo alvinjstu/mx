@@ -143,5 +143,34 @@
             }
         ],
         "timestamp": 1584068996819
+    },
+    {
+        "ucode": "u0003",
+        "uname": "大格局",
+        "headImg": "https://cn-kdqbxs-reader.bjruiyue.com.cn/test/moxiang/duanpian/head/tou2.png",
+        "mguid": "1584069485076",
+        "tags": [
+            "225400",
+            "225411"
+        ],
+        "title": "救治一个重症新冠肺炎，国家至少需要花费71万9575元",
+        "mcontent": "这是一个新官肺炎ICU患者的医疗费用，\n每天输液了2瓶白蛋白，每瓶425元，\n丙球蛋白每天8瓶，每瓶600元，\n人工心肺机开机就是5万，\n用一天2万，再加上其他药物，人力，\n算下来总共71万9575元。\n这还不是目前最高的医疗费用，但都是国家买单。\n\n你可以批评这个国家很多地方，\n但你终究会发现，\n每到生死关头，\n这个你觉得土的掉渣的国家和许多身上画着红色五角星的人，\n总会向你的爹妈一样狠狠地拉你一把。\n\n最后引用世卫组织一位外国官员的话，\n如果我感染了我，希望我能在中国。\n——传奇",
+        "remarks": [
+            ""
+        ],
+        "rich": [
+            {
+                "type": "4",
+                "size": "9/16",
+                "url": [
+                    "http://youqu-h5-2019.oss-cn-shenzhen.aliyuncs.com/bdxxl/1584069395245.jpg"
+                ],
+                "title": "",
+                "desc": "",
+                "link": "https://cn-kdqbxs-reader.bjruiyue.com.cn/test/moxiang/duanpian/content/video/51727c8e02360f2a5ab1f88da7f75056_cps.mp3",
+                "ext": ""
+            }
+        ],
+        "timestamp": 1584069485076
     }
 ]
