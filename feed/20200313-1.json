@@ -27,5 +27,34 @@
             }
         ],
         "timestamp": 1584067532883
+    },
+    {
+        "ucode": "u0006",
+        "uname": "小地娱文",
+        "headImg": "https://cn-kdqbxs-reader.bjruiyue.com.cn/test/moxiang/duanpian/head/tou6.png",
+        "mguid": "1584067790121",
+        "tags": [
+            "225400",
+            "225411"
+        ],
+        "title": "欧洲股市全线暴跌多国股市熔断,中欧贸易面临的危机与机遇",
+        "mcontent": "3月12日晚，针对欧洲的旅行禁令引发市场担忧，投资者对此做出回应。欧洲股市全线暴跌超10％ 泛欧斯托克50跌幅超12％目前泛欧斯托克600指数跌8.5%，英国富时100指数跌7.6%，德国DAX 30指数跌7.4%，法国CAC 40指数跌8.6%。旅游休闲板块大跌近10%，领跌大市。",
+        "remarks": [
+            ""
+        ],
+        "rich": [
+            {
+                "type": "0",
+                "size": "9/16",
+                "url": [
+                    "http://youqu-h5-2019.oss-cn-shenzhen.aliyuncs.com/bdxxl/1584067598587.jpg"
+                ],
+                "title": "",
+                "desc": "",
+                "link": "",
+                "ext": ""
+            }
+        ],
+        "timestamp": 1584067790121
     }
 ]
