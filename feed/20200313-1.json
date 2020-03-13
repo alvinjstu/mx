@@ -56,5 +56,34 @@
             }
         ],
         "timestamp": 1584067790121
+    },
+    {
+        "ucode": "u0004",
+        "uname": "疫情简报",
+        "headImg": "https://cn-kdqbxs-reader.bjruiyue.com.cn/test/moxiang/duanpian/head/tou1.png",
+        "mguid": "1584068040990",
+        "tags": [
+            "225400",
+            "225411"
+        ],
+        "title": "北欧挪威、丹麦、瑞典，疫情增长明显，丹麦关闭学校",
+        "mcontent": "据挪威《晚邮报》报道，在当地时间12日下午的新闻发布会上，挪威首相和卫生部部长提出了严格的措施来限制新冠肺炎的扩散，丹麦、挪威、瑞典三国开始纷纷，关闭学校，禁止举行和参加百人以上的活动。",
+        "remarks": [
+            ""
+        ],
+        "rich": [
+            {
+                "type": "0",
+                "size": "9/16",
+                "url": [
+                    "http://youqu-h5-2019.oss-cn-shenzhen.aliyuncs.com/bdxxl/1584068605894.jpg"
+                ],
+                "title": "",
+                "desc": "",
+                "link": "",
+                "ext": ""
+            }
+        ],
+        "timestamp": 1584068040990
     }
 ]
