@@ -56,5 +56,34 @@
             }
         ],
         "timestamp": 1584173714495
+    },
+    {
+        "ucode": "u0004",
+        "uname": "疫情简报",
+        "headImg": "https://cn-kdqbxs-reader.bjruiyue.com.cn/test/moxiang/duanpian/head/tou1.png",
+        "mguid": "1584174126884",
+        "tags": [
+            "225400",
+            "225411"
+        ],
+        "title": "岁寒知松柏，患难见真情",
+        "mcontent": "军队层面来讲，老挝、越南、柬埔寨、缅甸、新加坡、蒙古国、特立尼达和多巴哥等国国防部和军队向中方捐款、捐物、巴基斯坦、白俄罗斯、土耳其等国专门派出军用飞机运送援助物资来华，运送来大量的医用防护服、口罩、护目镜等医疗防护用品。岁寒知松柏，患难见真情。",
+        "remarks": [
+            ""
+        ],
+        "rich": [
+            {
+                "type": "0",
+                "size": "9/16",
+                "url": [
+                    "http://youqu-h5-2019.oss-cn-shenzhen.aliyuncs.com/bdxxl/1584173892954.jpg"
+                ],
+                "title": "",
+                "desc": "",
+                "link": "",
+                "ext": ""
+            }
+        ],
+        "timestamp": 1584174126884
     }
 ]
