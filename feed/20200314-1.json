@@ -27,5 +27,34 @@
             }
         ],
         "timestamp": 1584173468644
+    },
+    {
+        "ucode": "u0003",
+        "uname": "大格局",
+        "headImg": "https://cn-kdqbxs-reader.bjruiyue.com.cn/test/moxiang/duanpian/head/tou2.png",
+        "mguid": "1584173714495",
+        "tags": [
+            "225400",
+            "225411"
+        ],
+        "title": "一省包一国，只因为我们是生命共同体",
+        "mcontent": "中国政府派出了医疗专家团队。赴意大利协助抗疫，四川专家团队一行9人，将携带重症监护设备、医疗防护用品等物资，于12日从上海出发，前往罗马。\n至今，中国已排除四支医疗队，支持国际疫情：\n上海驰援伊朗，\n广东驰骋伊拉克，\n四川驰骋意大利。\n江苏驰骋巴基斯坦\n",
+        "remarks": [
+            ""
+        ],
+        "rich": [
+            {
+                "type": "0",
+                "size": "9/16",
+                "url": [
+                    "http://youqu-h5-2019.oss-cn-shenzhen.aliyuncs.com/bdxxl/1584173557995.jpg"
+                ],
+                "title": "",
+                "desc": "",
+                "link": "",
+                "ext": ""
+            }
+        ],
+        "timestamp": 1584173714495
     }
 ]
