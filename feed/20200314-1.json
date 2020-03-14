@@ -85,5 +85,63 @@
             }
         ],
         "timestamp": 1584174126884
+    },
+    {
+        "ucode": "u0006",
+        "uname": "小地娱文",
+        "headImg": "https://cn-kdqbxs-reader.bjruiyue.com.cn/test/moxiang/duanpian/head/tou6.png",
+        "mguid": "1584174419239",
+        "tags": [
+            "225400",
+            "225411"
+        ],
+        "title": "微软宣布比尔盖茨退出公司董事会",
+        "mcontent": "据外媒报道，微软于美国当地时间周五宣布，该公司联合创始人兼技术顾问比尔·盖茨从董事会辞职，将更多时间用于慈善方面，包括全球健康、发展、教育以及应对气候变化等。盖茨将继续担任首席执行官及技术顾问。",
+        "remarks": [
+            ""
+        ],
+        "rich": [
+            {
+                "type": "0",
+                "size": "9/16",
+                "url": [
+                    "http://youqu-h5-2019.oss-cn-shenzhen.aliyuncs.com/bdxxl/1584174523768.jpg"
+                ],
+                "title": "",
+                "desc": "",
+                "link": "",
+                "ext": ""
+            }
+        ],
+        "timestamp": 1584174419239
+    },
+    {
+        "ucode": "u0006",
+        "uname": "小地娱文",
+        "headImg": "https://cn-kdqbxs-reader.bjruiyue.com.cn/test/moxiang/duanpian/head/tou6.png",
+        "mguid": "1584174572671",
+        "tags": [
+            "225400",
+            "225411"
+        ],
+        "title": "3月13日，全球市场股市大反弹",
+        "mcontent": "3月12日“熔断潮”之后，全球股市又迎来“禁止做空潮”，同时多国央行降息降准。3月13日，全球市场股市大反弹！美国三大股指全线涨至6%，欧洲多国股指上涨。\n对此，网友纷纷笑称，这是刚出\"ICU\"，就蹦迪。",
+        "remarks": [
+            ""
+        ],
+        "rich": [
+            {
+                "type": "0",
+                "size": "9/16",
+                "url": [
+                    "http://youqu-h5-2019.oss-cn-shenzhen.aliyuncs.com/bdxxl/1584174561877.jpg"
+                ],
+                "title": "",
+                "desc": "",
+                "link": "",
+                "ext": ""
+            }
+        ],
+        "timestamp": 1584174572671
     }
 ]
