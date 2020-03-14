@@ -143,5 +143,34 @@
             }
         ],
         "timestamp": 1584174572671
+    },
+    {
+        "ucode": "u0006",
+        "uname": "小地娱文",
+        "headImg": "https://cn-kdqbxs-reader.bjruiyue.com.cn/test/moxiang/duanpian/head/tou6.png",
+        "mguid": "1584175086823",
+        "tags": [
+            "225400",
+            "225411"
+        ],
+        "title": "官宣！希腊暂停奥运火炬本国传递，圣火直接赴日本",
+        "mcontent": "当地时间3月13日，希腊奥委会宣布，出于对公众健康的考虑，在同国际奥委会、希腊卫生部共同商讨后决定，取消2020东京奥运火炬希腊境内的剩余传递活动。3月19日，奥运圣火将直接出现在日本！ 奥林匹克火炬仪式起源于希腊神话中普罗米修斯为人类盗取火种的故事奥运会的火炬仪式，已经有2700多年的历史。东京奥运会火炬传递的理念是“Hope Lights Our Way”，意为“希望照亮前路”。",
+        "remarks": [
+            ""
+        ],
+        "rich": [
+            {
+                "type": "0",
+                "size": "9/16",
+                "url": [
+                    "http://youqu-h5-2019.oss-cn-shenzhen.aliyuncs.com/bdxxl/1584174846460.jpg"
+                ],
+                "title": "",
+                "desc": "",
+                "link": "",
+                "ext": ""
+            }
+        ],
+        "timestamp": 1584175086823
     }
 ]
