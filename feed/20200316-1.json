@@ -85,5 +85,34 @@
             }
         ],
         "timestamp": 1584356448210
+    },
+    {
+        "ucode": "u0006",
+        "uname": "小地娱文",
+        "headImg": "https://cn-kdqbxs-reader.bjruiyue.com.cn/test/moxiang/duanpian/head/tou6.png",
+        "mguid": "1584356709838",
+        "tags": [
+            "225400",
+            "225411"
+        ],
+        "title": "疫情对中国经济的影响",
+        "mcontent": "解运亮：3月以来复工复产进度明显加快，中国经济最麻烦的时候已经过去。疫情蔓延全球，持续时间可能较长，进一步加大逆周期调节有必要。建议可以采取的措施包括：继续下调LPR引导贷款利率下行、财政赤字率提高至3.5%等。并强调，逆周期调节主要目的在于稳就业，努力实现经济增长最好结果，而不是执着于具体数字目标，需要对经济规律保持敬畏，不损害经济长期发展潜力。",
+        "remarks": [
+            ""
+        ],
+        "rich": [
+            {
+                "type": "0",
+                "size": "9/16",
+                "url": [
+                    "http://youqu-h5-2019.oss-cn-shenzhen.aliyuncs.com/bdxxl/1584356582204.jpg"
+                ],
+                "title": "",
+                "desc": "",
+                "link": "",
+                "ext": ""
+            }
+        ],
+        "timestamp": 1584356709838
     }
 ]
