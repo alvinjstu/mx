@@ -170,5 +170,34 @@
             }
         ],
         "timestamp": 1584440698623
+    },
+    {
+        "ucode": "u0003",
+        "uname": "大格局",
+        "headImg": "https://cn-kdqbxs-reader.bjruiyue.com.cn/test/moxiang/duanpian/head/tou2.png",
+        "mguid": "1584441349057",
+        "tags": [
+            "225400",
+            "225411"
+        ],
+        "title": "各国都迫切需要中国抗疫经验",
+        "mcontent": "面对新冠肺炎，中国在筹备了一场，面对58个国家和世界组织的，抗击疫情经验分享会。",
+        "remarks": [
+            ""
+        ],
+        "rich": [
+            {
+                "type": "4",
+                "size": "9/16",
+                "url": [
+                    "http://youqu-h5-2019.oss-cn-shenzhen.aliyuncs.com/bdxxl/1584441118448.jpg"
+                ],
+                "title": "",
+                "desc": "",
+                "link": "https://cn-kdqbxs-reader.bjruiyue.com.cn/test/moxiang/duanpian/content/video/3c9ae97e7e3d3f78a68f4c6b247492f1.mp3",
+                "ext": ""
+            }
+        ],
+        "timestamp": 1584441349057
     }
 ]
