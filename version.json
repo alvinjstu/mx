@@ -1,7 +1,7 @@
 {
 	"android": [{
-		"version": "1.1.0+16",
-		"updateInfo": "1、添加瀏覽紀錄模塊\n2、添加新推薦\n3、榜單改版",
+		"version": "1.1.2+18",
+		"updateInfo": "1、書城UI微改版\n2、添加聯繫我們功能\n3、添加意見反饋功能",
 		"updateUrl": "https://play.google.com/store/apps/details?id=com.qdqx.moxiang",
 		"unlineUrl": "https://cn-kdqbxs-reader.bjruiyue.com.cn/test/moxiang/moxiang-1.0.8-15.apk",
 		"enableUnline" :false,
