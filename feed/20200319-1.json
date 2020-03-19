@@ -172,5 +172,34 @@
             }
         ],
         "timestamp": 1584603153221
+    },
+    {
+        "ucode": "u0006",
+        "uname": "小地娱文",
+        "headImg": "https://cn-kdqbxs-reader.bjruiyue.com.cn/test/moxiang/duanpian/head/tou6.png",
+        "mguid": "1584603574995",
+        "tags": [
+            "225400",
+            "225411"
+        ],
+        "title": "字节跳动，海外审核部门一锅端上热搜",
+        "mcontent": "近日，字节跳动又被员工在脉脉中爆出猛料：字节TNS（国际审核团队）部门被一锅端，团队就地解散。一方面是用户红利见顶，字节旗下产品都在面临用户增长瓶颈压力。另一方面，国外业务拓展也因为算法机制及其内容审核频频受阻。而在疫情之下，通过对TNS部门一锅端的方式，似乎也成为其自救的一种无奈之举。",
+        "remarks": [
+            ""
+        ],
+        "rich": [
+            {
+                "type": "0",
+                "size": "9/16",
+                "url": [
+                    "http://youqu-h5-2019.oss-cn-shenzhen.aliyuncs.com/bdxxl/1584603565449.jpg"
+                ],
+                "title": "",
+                "desc": "",
+                "link": "",
+                "ext": ""
+            }
+        ],
+        "timestamp": 1584603574995
     }
 ]
