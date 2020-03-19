@@ -17,7 +17,9 @@
             {
                 "type": "3",
                 "size": "9/16",
-                "url": [],
+                "url": [
+                    "http://youqu-h5-2019.oss-cn-shenzhen.aliyuncs.com/bdxxl/1584598719931.gif"
+                ],
                 "title": "",
                 "desc": "",
                 "link": "",
@@ -25,5 +27,121 @@
             }
         ],
         "timestamp": 1584598746226
+    },
+    {
+        "ucode": "u0006",
+        "uname": "小地娱文",
+        "headImg": "https://cn-kdqbxs-reader.bjruiyue.com.cn/test/moxiang/duanpian/head/tou6.png",
+        "mguid": "1584600104734",
+        "tags": [
+            "225400",
+            "225411"
+        ],
+        "title": "中国50万亿救市计划来了",
+        "mcontent": "截至3月10日，有25个省区市公布了未来的投资规划，2.2万个项目总投资额达49.6万亿元，其中2020年度计划投资总规模7.6万亿元。\n\n新基建成重要投资方向，据中国信通院预测，预计到2025年，我国5G网络建设投资累计将达到1.2万亿元。未来5年工业企业开展网络化改造投资规模有望达到5000亿元。5G网络建设将带动产业链上下游以及各行业应用投资超过3.5万亿元。5G建设本身包括芯片、器件、材料、精密加工等硬件以及操作系统、云平台、数据库等软件。SG与大数据、人工智能等关联技术结合，又将带动诸多行业，为很多领域数字化转型奠定基础。",
+        "remarks": [
+            ""
+        ],
+        "rich": [
+            {
+                "type": "0",
+                "size": "9/16",
+                "url": [
+                    "http://youqu-h5-2019.oss-cn-shenzhen.aliyuncs.com/bdxxl/1584600085385.jpg"
+                ],
+                "title": "",
+                "desc": "",
+                "link": "",
+                "ext": ""
+            }
+        ],
+        "timestamp": 1584600104734
+    },
+    {
+        "ucode": "u0003",
+        "uname": "大格局",
+        "headImg": "https://cn-kdqbxs-reader.bjruiyue.com.cn/test/moxiang/duanpian/head/tou2.png",
+        "mguid": "1584600267464",
+        "tags": [
+            "225400",
+            "225411"
+        ],
+        "title": "人民的生命健康放在第一位",
+        "mcontent": "哪怕经济上受了很大的损失，也要干。\n2020年这两个多月，\n中国的经济基本上停摆的，\n付出的代价是非常大的。\n\n武汉疫情，倾全国之力，实施援救计划，\n表明了中国始终是以人民的生命健康放在第一位。\n我觉得我们是做到了。\n——终南山",
+        "remarks": [
+            ""
+        ],
+        "rich": [
+            {
+                "type": "4",
+                "size": "9/16",
+                "url": [
+                    "http://youqu-h5-2019.oss-cn-shenzhen.aliyuncs.com/bdxxl/1584600262546.jpg"
+                ],
+                "title": "人民的生命健康，高于一切！",
+                "desc": "",
+                "link": "",
+                "ext": ""
+            }
+        ],
+        "timestamp": 1584600267464
+    },
+    {
+        "ucode": "u0003",
+        "uname": "大格局",
+        "headImg": "https://cn-kdqbxs-reader.bjruiyue.com.cn/test/moxiang/duanpian/head/tou2.png",
+        "mguid": "1584601520167",
+        "tags": [
+            "225400",
+            "225411"
+        ],
+        "title": "疫情中，一群优秀的中国企业都干了些什么？",
+        "mcontent": "疫情之下，中国互联网企业家成为了一道亮丽的名片。\n缺钱，他们来了！\n网易、拼多多、快手各1亿，\n美团2亿，\n百度3亿，\n字节跳动3.91亿，\n腾讯15亿，\n阿里巴巴已经是21.2亿。\n\n京东开通武汉特别通道，阿里巴巴腾讯“全球寻源”。\n好口格力造，这不是一句调侃。\n医护人员吃饭难，农产品滞销交给我们。\n拼多多、阿里巴巴、饿了么、京东生鲜。\n国家需要的，就是我们要做的。\n\n万达免收30亿租金，\n火神山、雷神山，5G网络基站紧急建设。\n大量手机的捐赠，一批批救援物资，\n而这些都是华为的官网上看到的。\n\n国家需要的时候，他们都在。",
+        "remarks": [
+            ""
+        ],
+        "rich": [
+            {
+                "type": "4",
+                "size": "9/16",
+                "url": [
+                    "http://youqu-h5-2019.oss-cn-shenzhen.aliyuncs.com/bdxxl/1584601515098.jpg"
+                ],
+                "title": "国家需要的，就是我们要做的",
+                "desc": "",
+                "link": "",
+                "ext": ""
+            }
+        ],
+        "timestamp": 1584601520167
+    },
+    {
+        "ucode": "u0006",
+        "uname": "小地娱文",
+        "headImg": "https://cn-kdqbxs-reader.bjruiyue.com.cn/test/moxiang/duanpian/head/tou6.png",
+        "mguid": "1584602725120",
+        "tags": [
+            "225400",
+            "225411"
+        ],
+        "title": "刘永福：2020年，脱贫任务将近1000万人次",
+        "mcontent": "记者：这次的疫情对经济的影响是比较大的，刚才一直在讲返贫和脱贫的问题，导致新的贫困出现，有没有做一个统计和关注？\n\n刘永福：有返贫风险和致贫风险的，我们已有统计。有返贫风险大概2百万人，有致贫风险的300万人，再加上了500万人次，所以今年的脱贫任务就是1000万人次。",
+        "remarks": [
+            ""
+        ],
+        "rich": [
+            {
+                "type": "4",
+                "size": "9/16",
+                "url": [
+                    "http://youqu-h5-2019.oss-cn-shenzhen.aliyuncs.com/bdxxl/1584601899778.jpg"
+                ],
+                "title": "脱贫任务将近1000万人次",
+                "desc": "",
+                "link": "",
+                "ext": ""
+            }
+        ],
+        "timestamp": 1584602725120
     }
 ]
