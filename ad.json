@@ -16,7 +16,7 @@
 		"statu": true,
 		"name": "ad3"
 	}, {
-		"setting": ["ca-app-pub-2013973260308118/7591640630", "native_ad_layout", "126.0", "书架", "4"],
+		"setting": ["ca-app-pub-2013973260308118/7591640630", "native_ad_layout_card", "126.0", "书架", "4"],
 		"statu": true,
 		"name": "ad4"
 	}],
@@ -38,7 +38,7 @@
 			"name": "ad3"
 		},
 		{
-			"setting": ["ca-app-pub-3940256099942544/2247696110", "native_ad_layout", "120.0", "搜索页面", "4"],
+			"setting": ["ca-app-pub-3940256099942544/2247696110", "native_ad_layout_card", "120.0", "搜索页面", "4"],
 			"statu": false,
 			"name": "ad4"
 		}
