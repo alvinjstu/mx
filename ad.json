@@ -17,7 +17,7 @@
 		"name": "ad3"
 	}, {
 		"setting": ["ca-app-pub-2013973260308118/7591640630", "native_ad_layout_card", "126.0", "书架", "4"],
-		"statu": true,
+		"statu": false,
 		"name": "ad4"
 	}],
 	"android": [{
