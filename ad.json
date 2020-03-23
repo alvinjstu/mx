@@ -4,19 +4,19 @@
 		"statu": true,
 		"name": "ad0"
 	}, {
-		"setting": ["ca-app-pub-2013973260308118/7783212324", "native_ad_layout", 294.0, "搜索页面", 0],
+		"setting": ["ca-app-pub-2013973260308118/7783212324", "native_ad_layout", 294.0, "书城页面1", 1],
 		"statu": true,
 		"name": "ad1"
 	}, {
-		"setting": ["ca-app-pub-2013973260308118/1217803974", "native_ad_layout", 294.0, "搜索页面", 0],
+		"setting": ["ca-app-pub-2013973260308118/1217803974", "native_ad_layout", 294.0, "书城页面2", 2],
 		"statu": true,
 		"name": "ad2"
 	}, {
-		"setting": ["ca-app-pub-2013973260308118/2147742260", "native_ad_layout", 294.0, "搜索页面", 0],
+		"setting": ["ca-app-pub-2013973260308118/2147742260", "native_ad_layout", 294.0, "书籍详细页", 3],
 		"statu": true,
 		"name": "ad3"
 	}, {
-		"setting": ["ca-app-pub-2013973260308118/7591640630", "native_ad_layout", 294.0, "搜索页面", 0],
+		"setting": ["ca-app-pub-2013973260308118/7591640630", "native_ad_layout", 126.0, "书架", 4],
 		"statu": true,
 		"name": "ad4"
 	}],
