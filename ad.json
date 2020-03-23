@@ -22,7 +22,7 @@
 	}],
 	"android": [{
 			"setting": ["ca-app-pub-2013973260308118/2339313956", "native_ad_layout", "280.0", "搜索页面", "0"],
-			"statu": false,
+			"statu": true,
 			"name": "ad0"
 		}, {
 			"setting": ["ca-app-pub-2013973260308118/7783212324", "native_ad_layout", "280.0", "搜索页面", "1"],
