@@ -106,5 +106,32 @@
             }
         ],
         "timestamp": 1585041922670
+    },
+    {
+        "ucode": "u0005",
+        "uname": "小墨推书",
+        "headImg": "https://cn-kdqbxs-reader.bjruiyue.com.cn/test/moxiang/duanpian/head/tou5.png",
+        "mguid": "1585042682162",
+        "tags": [
+            "225400",
+            "225411"
+        ],
+        "title": "",
+        "mcontent": "华夏古武宗师陈凡，穿越到以武为尊的九州大陆，身为武痴的他，势要走上武道巅峰。斩万敌，踏苍穹，威临诸天万界！\n陈凡感觉到一阵巨大的吸扯之力传来，随后猛的睁开双眸，眼中神光一闪而逝。\n眼前是一间古色古香的房间，装修不算豪华，但却极为韵味。\n脑海中突然一阵刺痛，陈凡接收到一段不属于自己的记忆！忍着刺痛，他与那股记忆不断融合，良久后，长出了一口气，再度睁开双眸。\n“真的不可思议，我竟然穿越了！！！”",
+        "remarks": [
+            ""
+        ],
+        "rich": [
+            {
+                "type": "3",
+                "size": "9/16",
+                "url": [],
+                "title": "",
+                "desc": "",
+                "link": "",
+                "ext": "{\"bookImg\":\"https://img.qingoo.cn/img/5dd235c5b26c3a159000d037.jpg\",\"bookId\":\"5993be74cc3198454aafbdce\",\"bookSourceId\":\"5993be74cc3198454aafbdce\",\"bookName\":\"武道巅峰\"}"
+            }
+        ],
+        "timestamp": 1585042682162
     }
 ]
