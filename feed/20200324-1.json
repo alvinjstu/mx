@@ -79,5 +79,32 @@
             }
         ],
         "timestamp": 1585041472317
+    },
+    {
+        "ucode": "u0005",
+        "uname": "小墨推书",
+        "headImg": "https://cn-kdqbxs-reader.bjruiyue.com.cn/test/moxiang/duanpian/head/tou5.png",
+        "mguid": "1585041922670",
+        "tags": [
+            "225400",
+            "225411"
+        ],
+        "title": "《星空下的小幸运》我❤️你，你❤️我，这就足够了",
+        "mcontent": "一次跳楼失败，自闭症少女遇到了她的命中注定，一个成不了歌星就要回去继承四百亿家产的阳光大男孩。 某女被吊在三楼伸出来的晾衣杆上晃晃悠悠，突然用手挡住了裙底。 \n女：“你看什么？不许看！” \n男：“我在看你的眼睛，好像一汪深潭，让我再游不出来。”\n女：“你这个臭流氓！！”\n。。。",
+        "remarks": [
+            ""
+        ],
+        "rich": [
+            {
+                "type": "3",
+                "size": "9/16",
+                "url": [],
+                "title": "",
+                "desc": "",
+                "link": "",
+                "ext": "{\"bookImg\":\"https://img.qingoo.cn/img/5b8e56688562c57439c07628.jpg\",\"bookId\":\"5b608abe314ee266af49919c\",\"bookSourceId\":\"5b608abe314ee266af49919c\",\"bookName\":\"星空下的小幸运\"}"
+            }
+        ],
+        "timestamp": 1585041922670
     }
 ]
