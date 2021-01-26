@@ -1,0 +1,6 @@
+{
+"remotes": {
+          "@elib": "eLib@http://localhost:8022/emp.js"
+        },
+
+}
